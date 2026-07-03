@@ -102,10 +102,10 @@ Barclays-Bank-Customer-Churn-Analysis
 
 ## 📬 Contact
 
-**Rahul**
+**Praveen Rawat**
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/praveen-rawat-data/
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/praveenrawat12
 
-Email: your@email.com
+Email: praveen.rawat3705@email.com
