@@ -66,25 +66,23 @@ The dashboard provides interactive insights into customer demographics, account 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](dashboards_png.png)
 
 ---
 
 ## 📂 Project Structure
 
-```
-Barclays-Bank-Customer-Churn-Analysis
-│
-├── README.md
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── Dashboard.pdf
-├── Images
-│   └── Dashboard.png
-└── DAX Measures.txt
-```
 
----
+    Barclays-Bank-Customer-Churn-Analysis
+    │
+    ├── README.md
+    ├── Dashboard.pbix
+    ├── Dashboard.pdf
+    ├── Images
+    │   └── Dashboard.png
+    
+    
+
 
 ## 🚀 Skills Demonstrated
 
